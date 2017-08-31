@@ -1,0 +1,5 @@
+* [Software setup](https://goo.gl/PhSMKQ)
+* [Constructing the robot](https://goo.gl/286S1R)
+* [Making the maze](https://goo.gl/GlFmSE)
+* [Arduino tutorial](https://goo.gl/qFCEgR)
+* [Coding the maze algorithm](https://goo.gl/iNH8Ma)
